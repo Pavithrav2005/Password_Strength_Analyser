@@ -2,6 +2,8 @@
 
 A sophisticated machine learning-powered password strength analyzer that goes beyond traditional rule-based checking. This project uses real-world password patterns and adversarial training to provide robust password security assessment.
 
+![Screenshot 2025-06-29 150250](https://github.com/user-attachments/assets/880d31ce-862a-4250-9ad9-55903dd3e337)
+
 ## 🌟 Features
 
 ### Core Functionality
